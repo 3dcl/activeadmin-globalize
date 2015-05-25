@@ -7,7 +7,7 @@ The original gem is not maintened anymore, so I forked it to be compatible for R
 ## Installation
 
 ```ruby
-gem "activeadmin-globalize", github: 'anthony-robin/activeadmin-globalize'
+gem "activeadmin-globalize", github: 'alexhifer/activeadmin-globalize'
 ```
 
 ## Your model
